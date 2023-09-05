@@ -1,3 +1,7 @@
 html, body {
   box-sizing: border-box;
 }
+
+.formik-form-examples-container {
+  height: 100vh;
+}
